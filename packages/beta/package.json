@@ -1,0 +1,10 @@
+{
+  "name": "beta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "alpha": "^1.0.0",
+    "yoctodelay": "^1.1.0"
+  }
+}
